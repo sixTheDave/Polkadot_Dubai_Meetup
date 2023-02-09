@@ -14,7 +14,9 @@ Repository for documents and files, related to Polkadot Dubai Meetups.
 
 Polkadot and Kusama Intro: Enter the Ecosystem - [2022 November](https://www.meetup.com/polkadot-and-kusama-dubai/events/289622171/)
 
+Ecosystem meetup - [2022 January](https://www.meetup.com/polkadot-and-kusama-dubai/events/290892583/)
+
 
 ## List of speakers in order
 
-Angelina Kenza (Polkadot Ambassador Candidate), six / David Pethes (Polkadot Head Ambassador, Crypto CTF)
+Angelina Kenza (Polkadot Ambassador Candidate), six / David Pethes (Polkadot Head Ambassador, Crypto CTF), Hatem (Web3 Content Creator)
