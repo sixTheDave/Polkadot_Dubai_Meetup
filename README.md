@@ -16,7 +16,9 @@ Polkadot and Kusama Intro: Enter the Ecosystem - [2022 November](https://www.mee
 
 Ecosystem meetup - [2022 January](https://www.meetup.com/polkadot-and-kusama-dubai/events/290892583/)
 
+Fireside chat with Dubai Polkadot ecosystem members
+
 
 ## List of speakers in order
 
-Angelina Kenza (Polkadot Ambassador Candidate), six / David Pethes (Polkadot Head Ambassador, Crypto CTF), Hatem (Web3 Content Creator)
+Angelina Kenza (Polkadot Ambassador Candidate), six / David Pethes (Polkadot Head Ambassador, Crypto CTF), Hatem (Web3 Content Creator), Michael Healy (Unit Network)
